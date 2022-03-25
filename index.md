@@ -1,4 +1,4 @@
-#Arrays
+#Arrays#
 An array is an ordered list of items of a given data type. 
 Each item in an array is called an element.
 example of declaring Array reference variable and array allocation.
